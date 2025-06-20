@@ -13,7 +13,7 @@ A machine learning project for automated classification of leukocytes (white blo
 
 ## 🧠 Model
 
-The model was trained on [insert dataset name, e.g., LISC or BCCD dataset], with [insert number] classes:
+The model was trained on Kaggle Dataset, with 5 classes:
 - Neutrophils
 - Eosinophils
 - Basophils
